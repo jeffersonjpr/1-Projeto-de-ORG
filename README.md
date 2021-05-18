@@ -40,5 +40,24 @@ Output
   <img src="https://i.imgur.com/tbXU3kB.png" width="700">
 </p>
 
+## Exemplo 2 (colorido)
+
+Input
+<p align="center">
+  <img src="https://i.imgur.com/0RQB2V7.png" width="160">
+  <img src="https://i.imgur.com/Upvm12j.png" width="160">
+  <img src="https://i.imgur.com/e5mCdUD.png" width="160">
+  <img src="https://i.imgur.com/I3nN6cI.png" width="160">
+  <img src="https://i.imgur.com/VGIacRD.png" width="160">
+  <img src="https://i.imgur.com/NMSCgCs.png" width="160">
+  <img src="https://i.imgur.com/cB5cAof.png" width="160">
+  <img src="https://i.imgur.com/5XqFzxy.png" width="160">
+  <img src="https://i.imgur.com/IY2bywA.png" width="160">
+  <img src="https://i.imgur.com/u3oHmfc.png" width="160">
+</p>
+Output
+<p align="center">
+  <img src="https://i.imgur.com/W4Hwp5k.png" width="700">
+</p>
 _________________________________________________
 *All copyrighted content (images, codes, etc.) belong to their respective owners and are not included under the license of this repositorie.*
