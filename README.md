@@ -1,7 +1,7 @@
 # Primeiro projeto da disciplina CC53B-Organização de Computadores-2019-1    
 Desenvolver uma solução em assembly (MIPS 32) que, dada uma sequencia de imagens finita (câmera fixa), calcule o modelo de fundo.    
 Utilizamos o simulador MARS (MIPS Assembler and Runtime Simulator).    
-A imagens de input e output precisam estar no formato PGM (portable graymap format) ou PPM (portable pixmap format).
+O formato de imagens utilizados no projeto são: PGM (portable graymap format) e PPM (portable pixmap format).
 
 ## Exemplo 1 (escala de cinza)
 
