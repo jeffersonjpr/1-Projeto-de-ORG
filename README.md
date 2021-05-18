@@ -1,10 +1,24 @@
 # Primeiro projeto da disciplina CC53B-Organização de Computadores-2019-1    
-Desenvolver um programa que calcula o modelo de fundo dado uma sequencia de imagens. Utilizando o conjunto de instruções MIPS, pelo simulador MARS (MIPS Assembler and Runtime Simulator).
+Desenvolver um programa que calcula o modelo de fundo dado uma sequencia de imagens (de uma câmera fixa). Utilizando o conjunto de instruções MIPS, pelo simulador MARS (MIPS Assembler and Runtime Simulator).
 
 ## Exemplo 1 (preto e branco)
 
+Input
 <p align="center">
-  <img src="" width="400">
+  <img src="https://i.imgur.com/CLigl1n.png" width="160">
+  <img src="https://i.imgur.com/H23RQRR.png" width="160">
+  <img src="https://i.imgur.com/A9WppaA.png" width="160">
+  <img src="https://i.imgur.com/bDKOycj.png" width="160">
+  <img src="https://i.imgur.com/ti2eToU.png" width="160">
+  <img src="https://i.imgur.com/t0szv7i.png" width="160">
+  <img src="https://i.imgur.com/F7DxMDq.png" width="160">
+  <img src="https://i.imgur.com/RWz3f0M.png" width="160">
+  <img src="https://i.imgur.com/Bdms4cI.png" width="160">
+  <img src="https://i.imgur.com/1Nikp0m.png" width="160">
+</p>
+Output
+<p align="center">
+  <img src="https://i.imgur.com/3ckmRQN.png" width="700">
 </p>
 
 ## Exemplo 1 (colorido)
@@ -25,5 +39,6 @@ Output
 <p align="center">
   <img src="https://i.imgur.com/tbXU3kB.png" width="700">
 </p>
+
 _________________________________________________
 *All copyrighted content (images, codes, etc.) belong to their respective owners and are not included under the license of this repositorie.*
